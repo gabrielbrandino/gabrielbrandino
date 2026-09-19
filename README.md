@@ -1,1 +1,1 @@
-![alt text](https://media.licdn.com/dms/image/v2/D4D16AQFUdAOLdjZcUQ/profile-displaybackgroundimage-shrink_350_1400/B4DaC57CtOJEAU-/0/1789825657988?e=1791417600&v=beta&t=ZCre08E7V_5paVzWHyOkeEDoVLzl3fCZ4FfN-u1jUpE)
+![alt text](https://gabrielayer.com/api/github/readme?iconcolor=grayscale&languages=true&blog=true&projects=true&expanded=projects,skills&lang=en&theme=dark&rojecticon=colored&opentowork=false)
