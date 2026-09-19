@@ -1,1 +1,1 @@
-![alt text](https://gabrielayer.com/api/github/readme?iconcolor=grayscale&languages=true&blog=true&projects=true&expanded=projects,skills&lang=en&theme=github2&rojecticon=colored&opentowork=false&image=true&fs=16)
+![alt text](https://gabrielayer.com/api/github/readme?iconcolor=grayscale&languages=true&blog=true&projects=true&expanded=projects,skills&lang=en&theme=github&rojecticon=colored&opentowork=false&image=true&fs=16)
